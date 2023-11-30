@@ -10,8 +10,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="2%" />
 
+<!-- motion IMAGE LINK
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="2%" />
+https://animated-fluent-emoji.vercel.app/  -->
 
 <!--
 **SeLino98/SeLino98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
