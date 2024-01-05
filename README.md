@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Test&fontSize=60" />
-
+주요스택
 ![SeLino98's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeLino98&show_icons=true&theme=radical) ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
 # 🔭Skills
