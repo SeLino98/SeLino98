@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho&fontSize=48" />
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStarbow-Break%2F&count_bg=%23D39DFF&title_bg=%23555555&icon=micro-dot-blog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
 주요스택
 ![SeLino98's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeLino98&show_icons=true&theme=radical) ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
