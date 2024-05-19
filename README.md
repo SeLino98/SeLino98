@@ -4,7 +4,9 @@
 
 
 
-![SeLino98's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeLino98&show_icons=true&theme=radical) ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
+<!-- ![SeLino98's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeLino98&show_icons=true&theme=radical) -->
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
 # 🔭Skills
 ### Platforms & Languages
