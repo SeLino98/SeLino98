@@ -8,11 +8,154 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
-# 🔭Skills
-### Platforms & Languages
 
-## Spring_dev
+---
 
+# 🔭 Skills
+
+## 🌱 Platforms & Languages
+
+### 🌐 Spring Development
+<div align="center">
+  <table>
+    <tr>
+      <th>기술</th>
+      <th>역량</th>
+      <th>비고</th>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>⭐⭐⭐</td>
+      <td>RESTful API Development</td>
+    </tr>
+    <tr>
+      <td>Spring Security</td>
+      <td>⭐⭐⭐</td>
+      <td>Enhanced system security with high reliability</td>
+    </tr>
+    <tr>
+      <td>Spring JWT</td>
+      <td>⭐⭐⭐</td>
+      <td>Implementation of authentication/authorization using refresh and access tokens</td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ DevOps
+<div align="center">
+  <table>
+    <tr>
+      <th>기술</th>
+      <th>역량</th>
+      <th>비고</th>
+    </tr>
+    <tr>
+      <td>Docker, Docker Hub, Docker-Compose</td>
+      <td>⭐⭐⭐</td>
+      <td>Seamless deployment and containerized application management using Docker</td>
+    </tr>
+    <tr>
+      <td>Jenkins</td>
+      <td>⭐⭐</td>
+      <td>CI/CD setup and automated deployment pipeline management with Jenkins</td>
+    </tr>
+    <tr>
+      <td>GitLab</td>
+      <td>⭐⭐⭐</td>
+      <td>Version control, CI/CD integration, and collaborative environment setup with GitLab</td>
+    </tr>
+    <tr>
+      <td>Jira</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>Powerful sprint planning and retrospectives for project management and team collaboration</td>
+    </tr>
+    <tr>
+      <td>Gerrit</td>
+      <td>⭐</td>
+      <td>Efficient code integration management through code reviews and collaboration</td>
+    </tr>
+  </table>
+</div>
+
+### 🖥️ Infrastructure / OS
+<div align="center">
+  <table>
+    <tr>
+      <th>기술</th>
+      <th>역량</th>
+      <th>비고</th>
+    </tr>
+    <tr>
+      <td>AWS</td>
+      <td>⭐⭐⭐</td>
+      <td>Experience with EC2, S3, RDS, VPC, and ALB for load balancing</td>
+    </tr>
+    <tr>
+      <td>Ubuntu</td>
+      <td>⭐⭐⭐</td>
+      <td>Server setup and management, utilization of various development tools in a desktop environment</td>
+    </tr>
+    <tr>
+      <td>NAC Equipment Operation</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>Security monitoring and operation through network access control</td>
+    </tr>
+    <tr>
+      <td>UTM Equipment Operation</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>Network security and monitoring, policy management using Unified Threat Management equipment</td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td>⭐⭐⭐</td>
+      <td>Utilized in network equipment and server operation environments, script file creation</td>
+    </tr>
+  </table>
+</div>
+
+### 📱 Android Development
+<div align="center">
+  <table>
+    <tr>
+      <th>기술</th>
+      <th>역량</th>
+      <th>비고</th>
+    </tr>
+    <tr>
+      <td>Android</td>
+      <td>⭐⭐</td>
+      <td>Native app development, UI/UX optimization experience, MVVM architecture design using Hilt</td>
+    </tr>
+    <tr>
+      <td>Kotlin</td>
+      <td>⭐⭐</td>
+      <td>Modern language features for Android app development, asynchronous programming with coroutines</td>
+    </tr>
+  </table>
+</div>
+
+### 📊 Big Data Development
+<div align="center">
+  <table>
+    <tr>
+      <th>기술</th>
+      <th>역량</th>
+      <th>비고</th>
+    </tr>
+    <tr>
+      <td>Big Data</td>
+      <td>⭐⭐</td>
+      <td>Big data analysis and modeling experience, data classification using KNN algorithm and ensemble methods</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>⭐</td>
+      <td>Data analysis and visualization, predictive model development through time series analysis</td>
+    </tr>
+  </table>
+</div>
+
+<!--
 | 기술 | 역량 | 비고 |
 | --- | --- | --- |
 | Spring-Boot | ⭐⭐⭐ | RESTful API 개발 |
