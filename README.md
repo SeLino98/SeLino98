@@ -15,7 +15,7 @@
 ## 🌱 Platforms & Languages
 
 ### 🌐 Spring Development
-<div align="center">
+<div align="">
   <table>
     <tr>
       <th style="width: 350px;">기술</th>
