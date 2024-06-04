@@ -10,6 +10,8 @@
 
 ---
 
+<!--
+
 # 🔭 Skills
 
 ## 🌱 Platforms & Languages
@@ -77,7 +79,7 @@
 </div>
 
 ### 🖥️ Infrastructure / OS
-<div align="center">
+<div align="">
   <table>
     <tr>
       <th style="width: 150px;">기술</th>
@@ -113,7 +115,7 @@
 </div>
 
 ### 📱 Android Development
-<div align="center">
+<div align="">
   <table>
     <tr>
       <th style="width: 150px;">기술</th>
@@ -123,18 +125,18 @@
     <tr>
       <td>Android</td>
       <td>⭐⭐</td>
-      <td>Native app development, UI/UX optimization experience, MVVM architecture design using Hilt</td>
+      <td>네이티브 앱 개발, UI/UX 최적화 경험. Hilt를 이용한 MVVM 구조 설계</td>
     </tr>
     <tr>
       <td>Kotlin</td>
       <td>⭐⭐</td>
-      <td>Modern language features for Android app development, asynchronous programming with coroutines</td>
+      <td>안드로이드 앱 개발, 코루틴을 이용한 비동기 프로그래밍 및 멀티태스킹</td>
     </tr>
   </table>
 </div>
 
 ### 📊 Big Data Development
-<div align="center">
+<div align="">
   <table>
     <tr>
       <th style="width: 150px;">기술</th>
@@ -144,18 +146,17 @@
     <tr>
       <td>Big Data</td>
       <td>⭐⭐</td>
-      <td>Big data analysis and modeling experience, data classification using KNN algorithm and ensemble methods</td>
+      <td>빅데이터 분석 및 모델링 경험. KNN 알고리즘을 이용한 데이터 분류 및 앙상블 기법 활용 s</td>
     </tr>
     <tr>
       <td>Python</td>
       <td>⭐</td>
-      <td>Data analysis and visualization, predictive model development through time series analysis</td>
+      <td> 데이터 분석 및 시각화, 시계열 분석을 통한 예측 모델 개발 </td>
     </tr>
   </table>
 </div>
 
 
-<!--
 | 기술 | 역량 | 비고 |
 | --- | --- | --- |
 | Spring-Boot | ⭐⭐⭐ | RESTful API 개발 |
