@@ -8,7 +8,6 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
-
 ---
 
 # 🔭 Skills
@@ -19,9 +18,9 @@
 <div align="center">
   <table>
     <tr>
-      <th>기술</th>
-      <th>역량</th>
-      <th>비고</th>
+      <th style="width: 150px;">기술</th>
+      <th style="width: 80px;">역량</th>
+      <th style="width: 500px;">비고</th>
     </tr>
     <tr>
       <td>Spring Boot</td>
@@ -45,9 +44,9 @@
 <div align="center">
   <table>
     <tr>
-      <th>기술</th>
-      <th>역량</th>
-      <th>비고</th>
+      <th style="width: 150px;">기술</th>
+      <th style="width: 80px;">역량</th>
+      <th style="width: 500px;">비고</th>
     </tr>
     <tr>
       <td>Docker, Docker Hub, Docker-Compose</td>
@@ -81,9 +80,9 @@
 <div align="center">
   <table>
     <tr>
-      <th>기술</th>
-      <th>역량</th>
-      <th>비고</th>
+      <th style="width: 150px;">기술</th>
+      <th style="width: 80px;">역량</th>
+      <th style="width: 500px;">비고</th>
     </tr>
     <tr>
       <td>AWS</td>
@@ -117,9 +116,9 @@
 <div align="center">
   <table>
     <tr>
-      <th>기술</th>
-      <th>역량</th>
-      <th>비고</th>
+      <th style="width: 150px;">기술</th>
+      <th style="width: 80px;">역량</th>
+      <th style="width: 500px;">비고</th>
     </tr>
     <tr>
       <td>Android</td>
@@ -138,9 +137,9 @@
 <div align="center">
   <table>
     <tr>
-      <th>기술</th>
-      <th>역량</th>
-      <th>비고</th>
+      <th style="width: 150px;">기술</th>
+      <th style="width: 80px;">역량</th>
+      <th style="width: 500px;">비고</th>
     </tr>
     <tr>
       <td>Big Data</td>
@@ -154,6 +153,7 @@
     </tr>
   </table>
 </div>
+
 
 <!--
 | 기술 | 역량 | 비고 |
