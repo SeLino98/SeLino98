@@ -18,7 +18,7 @@
 <div align="center">
   <table>
     <tr>
-      <th style="width: 150px;">기술</th>
+      <th style="width: 350px;">기술</th>
       <th style="width: 80px;">역량</th>
       <th style="width: 500px;">비고</th>
     </tr>
