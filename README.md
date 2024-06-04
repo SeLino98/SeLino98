@@ -11,6 +11,49 @@
 # 🔭Skills
 ### Platforms & Languages
 
+## Spring_dev
+
+| 기술 | 역량 | 비고 |
+| --- | --- | --- |
+| Spring-Boot | ⭐⭐⭐ | RESTful API 개발 |
+| Spring Secure | ⭐⭐⭐ | 시스템 보안을 강화하는 필수 기술로, 높은 신뢰성을 자랑 |
+| Spring JWT | ⭐⭐⭐ | refresh 및 access 토큰을 활용한 인증/인가 구현 |
+
+## Dev-ops
+
+| 기술 | 역량 | 비고 |
+| --- | --- | --- |
+| Docker, Docker Hub, Docker-Compose | ⭐⭐⭐ | Docker를 활용한 무중단 배포 구동 및 컨테이너화된 애플리케이션 관리 |
+| Jenkins | ⭐⭐ | Jenkins를 활용한 CI/CD 구축 및 자동화된 배포 파이프라인 관리 |
+| GitLab | ⭐⭐⭐ | GitLab을 이용한 버전 관리, CI/CD 통합 및 협업 환경 구축 |
+| Jira | ⭐⭐⭐⭐ | 프로젝트 관리 및 팀 협업을 위한 강력한 스프린트 계획, 회고 |
+| Gerrit | ⭐ | 코드 리뷰 및 협업을 통한 효율적인 코드 통합 관리 |
+
+## Infra / OS
+
+| 기술 | 역량 | 비고 |
+| --- | --- | --- |
+| AWS | ⭐⭐⭐ | EC2, S3, RDS 등 다양한 AWS 서비스 활용 경험, VPC 과 alb 구축을 통한 로드밸런싱 구현 |
+| Ubuntu | ⭐⭐⭐ | 서버 설정 및 관리, 데스크탑 환경에서의 다양한 개발 도구 활용 경험 |
+| NAC 장비 운용 | ⭐⭐⭐⭐ | 네트워크 접근 제어를 통한 보안 관제 및 운용  |
+| UTM 장비 운용 | ⭐⭐⭐⭐ | 통합 위협 관리 장비를 통한 네트워크 보안 및 관제, 정책 운용 |
+| Linux | ⭐⭐⭐ | 네트워크 장비 및 서버 운용 환경에서 이용. 권한 설정 sh 파일 작성함 |
+
+## Android_dev
+
+| 기술 | 역량 | 비고 |
+| --- | --- | --- |
+| Android | ⭐⭐ | 네이티브 앱 개발, UI/UX 최적화 경험. Hilt를 이용한 MVVM 구조 설계 |
+| Kotlin | ⭐⭐ | 현대적 언어 특성을 활용한 안드로이드 앱 개발, 코루틴을 이용한 비동기 프로그래밍 및 멀티태스킹 |
+
+## BigData_dev
+
+| 기술 | 역량 | 비고 |
+| --- | --- | --- |
+| BigData | ⭐⭐ | 빅데이터 분석 및 모델링 경험. KNN 알고리즘을 이용한 데이터 분류 및 앙상블 기법 활용 |
+| Python | ⭐ | 데이터 분석 및 시각화, 시계열 분석을 통한 예측 모델 개발 |
+
+<!--
 - **모바일 개발:** 
   - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
@@ -55,3 +98,5 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) -->
+
+-->
