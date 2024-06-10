@@ -9,7 +9,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)
 
 
-
+<!-- 
 # 🔭 Skills
 
 ## 🌱 Platforms & Languages
@@ -226,7 +226,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="2%" />
 https://animated-fluent-emoji.vercel.app/  -->
 
-<!--
 **SeLino98/SeLino98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently working on ...
