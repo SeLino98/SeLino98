@@ -10,9 +10,6 @@
 
 
 
-
-<!--
-
 # 🔭 Skills
 
 ## 🌱 Platforms & Languages
