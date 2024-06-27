@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho_김인호&fontSize=48" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeLino98&count_bg=%2379C83D&title_bg=%23555555&icon=androidstudio.svg&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
