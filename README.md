@@ -7,8 +7,6 @@
 <br>
 
 
-<img src="https://github.com/SeLino98/SeLino98/assets/108725996/d30eea24-9d7b-4404-b7c5-ccf0745dce42" alt="미노스와 찍은 셀카" width="200" height="200">
-
 
 <br>
 <br>
