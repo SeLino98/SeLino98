@@ -1,3 +1,82 @@
+<div align="center">
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
+
+
+### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 김인호 입니다👩🏻‍💻
+<br>
+
+
+<img src="https://github.com/SeLino98/SeLino98/assets/108725996/d30eea24-9d7b-4404-b7c5-ccf0745dce42" alt="미노스와 찍은 셀카" width="200" height="200">
+
+
+<br>
+<br>
+
+
+<strong><span style="font-size: 300px;">📚Tech Stack📚</span></strong>
+
+
+✨ **Platforms & Languages** ✨
+ <!-- 스프링 --><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <!-- 스프링부트 --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <!-- django --><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<br>
+<!-- Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<br>
+
+<!-- html --><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <!-- css --><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <!-- javascript --><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<div style="display: flex; align-items: center;">
+    <!-- 자바 -->
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" style="margin-right: 10px;" />
+    <!-- AWS -->
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" style="margin-right: 10px;" />
+    <!-- MySQL -->
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+    <!-- javascript -->
+    <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- docker -->
+    <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- react -->
+   <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- python -->
+  <!--   <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" /> -->
+  <!-- rest -->
+  <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+    
+</div>
+
+<br>
+
+
+🛠️ **Tools** 🛠️
+<!-- 깃허브<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/><br><!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>  -->
+
+
+
+<br>
+<br>
+<br>
+
+
+🎨 **Portfolio** 🎨
+<!-- 벨로그 <a href="https://velog.io/@y_bin/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="velog badge"/>
+</a> -->
+     
+
+
+<br>
+<br>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimino_bot98)](https://solved.ac/kimino_bot98)
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeLino98&show_icons=true&theme=graywhite)
+
+[![yebin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeLino98&theme=xcode)](https://github.com/SeLino98/github-readme-activity-graph)
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho_김인호&fontSize=48" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeLino98&count_bg=%2379C83D&title_bg=%23555555&icon=androidstudio.svg&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
