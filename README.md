@@ -2,8 +2,9 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요👋 김인호입니다!👩🏻‍💻&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요 김인호입니다!&fontSize=48" />
 
+## 👋
 <br>
 <br>
 <br>
