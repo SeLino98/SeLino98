@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho_김인호&fontSize=48" />
 
-### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 김인호 입니다👩🏻‍💻
+### 안녕하세요👋 <br> 김인호 입니다! 👩🏻‍💻
 <br>
 
 
