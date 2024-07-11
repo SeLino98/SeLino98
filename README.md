@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kiminho_김인호&fontSize=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=48" />
 
 ### 안녕하세요👋 <br> 김인호 입니다! 👩🏻‍💻
 <br>
