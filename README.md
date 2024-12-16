@@ -9,7 +9,7 @@ I have hands-on experience in building secure systems, maintaining servers, and 
 
 - **Military Service**: Served as an Information Security Specialist, managing **firewall monitoring**, **server maintenance**, and overall IT operations.
 - **Samsung Software Academy for Youth (SSAFY)**: Developed full-stack projects using **Android**, **Spring Framework**, **server infrastructures**.
-- **Cybersecurity Hackathon Award**: Developed ScamDetectiveService using **Big Data** of scam messages and earned recognition for **Cybersecurity**.
+- **Cybersecurity Hackathon Award**: Developed ScamDetectiveService using **Big Data** of scam messages.
 
 ---
 
