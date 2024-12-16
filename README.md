@@ -38,12 +38,12 @@ I have hands-on experience in building secure systems, maintaining servers, and 
 ## 🎓 Certifications
 
 - **Information Processing Engineer** (정보처리기사)
-- **Big Data Analyst** (빅데이터분석기사)
+- **Big Data Analysist Engineer** (빅데이터분석기사)
 - **Industrial Engineer Information Processing** (정보처리산업기사)
 - **Linux Master Level 2** (리눅스 마스터 2급)
 - **Network Manager Level 2** (네트워크 관리사 2급)
 - **SQL Developer (SQLD)**
-- **Advanced Data Science Professional (ADSP)**
+- **Advanced Data Analytics Semi-Professional (ADsP)**
 - **OPIc IH (Intermediate High)**
 
 ---
