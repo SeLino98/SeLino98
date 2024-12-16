@@ -1,7 +1,12 @@
 # 👨‍💻 Hello I'm Inho Kim
 
-Hi there! I'm a passionate software engineer with a strong foundation in **Java**, **Kotlin**, and **Python**, complemented by expertise in **Cybersecurity**, **Spring Security**, **Android development**, and various DevOps tools.
-I have hands-on experience in building secure systems, maintaining servers, and managing firewalls from my time as a **Cybersecurity Specialist** in the military. 
+Hi there!
+
+I'm a passionate software engineer specializing in  **Java**, **Kotlin**, and **Python**. 
+and I have a strong foundation in Cybersecurity, Spring FrameWork, Android, and various DevOps tools.
+
+My hands-on experience includes maintaining servers and managing firewalls from my time as a **Cybersecurity Specialist** in the military. 
+I’m always eager to apply my skills to build secure, scalable solutions that drive innovation and solve real-world challenges.
 
 ---
 
