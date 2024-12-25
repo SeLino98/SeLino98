@@ -53,4 +53,4 @@ I’m always eager to apply my skills to build secure, scalable solutions that d
 
 ---
 
-Thanks for visiting my profile! Let's build something amazing together. 🚀
+Thanks for visiting my profile! Let's build something amazing together.
