@@ -8,6 +8,18 @@ and I have a strong foundation in Cybersecurity, Spring FrameWork, Android, and 
 My hands-on experience includes maintaining servers and managing firewalls from my time as a **Cybersecurity Specialist** in the military. 
 I’m always eager to apply my skills to build secure, scalable solutions that drive innovation and solve real-world challenges.
 
+<!-- Hi there! I'm Inho Kim, a results-driven software engineer with expertise in **Java**, **Kotlin**, and **Python**.  
+With a strong foundation in **Cybersecurity**, **Spring Framework**, **Android Development**, and **DevOps Tools**, I strive to design secure, scalable, and innovative solutions that make a meaningful impact. -->
+
+---
+
+## 🎓 Education & Professional Experience  
+- **[Education] 새싹 백엔드 심화 과정** [2024.12 ~ 2025.04]  
+- **[Reward] 사이버 보안 해커톤 우수상** [2024.09]
+- **[Education] 삼성 소프트웨어 아카데미 (SSAFY)** [2023.07 ~ 2024.07]  
+- **[Experience] 마포청년 취창업활동 지원 사업 팀대표** [2023.05 ~ 2023.12]  
+- **[Experience] 육군 Cert(Computer Emergency Response Team)** [2020.02 ~ 2021.09]
+
 ---
 
 ## 💼 Professional Experience
@@ -40,17 +52,13 @@ I’m always eager to apply my skills to build secure, scalable solutions that d
 
 ---
 
-## 🎓 Certifications
-
-- **Information Processing Engineer** (정보처리기사)
-- **Big Data Analysist Engineer** (빅데이터분석기사)
-- **Industrial Engineer Information Processing** (정보처리산업기사)
-- **Linux Master Level 2** (리눅스 마스터 2급)
-- **Network Manager Level 2** (네트워크 관리사 2급)
-- **SQL Developer (SQLD)**
-- **Advanced Data Analytics Semi-Professional (ADsP)**
-- **OPIc IH (Intermediate High)**
-
+## 🏆 Certifications & Rewards
+- **정보처리기사** (Information Processing Engineer) [2024.09.12]  
+- **빅데이터분석기사** (Big Data Analysist Engineer) [2024.07.12]  
+- **OPIc IH** (Intermediate High) [2024.06.29]  
+- **SQL 개발자 (SQLD)** [2024.06.21]  
+- **Advanced Data Analytics Semi-Professional (ADsP)** [2024.03.22]  
+- **리눅스 마스터 2급** (Linux Master Level 2) [2023.12.29]  
+- **정보처리산업기사** (Industrial Engineer Information Processing) [2019.11.22]  
+- **네트워크 관리사 2급** (Network Manager Level 2) [2019.04.09]
 ---
-
-Thanks for visiting my profile! Let's build something amazing together.
