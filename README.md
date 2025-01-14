@@ -5,7 +5,7 @@ Hi there!
 I'm a passionate software engineer specializing in  **Java**, **Kotlin**, and **Python**. 
 and I have a strong foundation in Cybersecurity, Spring FrameWork, Android, and various DevOps tools.
 
-My hands-on experience includes maintaining servers and managing firewalls from my time as a **Cybersecurity Specialist** in the military. 
+My hands-on experience includes maintaining servers and managing firewalls from my time as a **CERT** in the military. 
 I’m always eager to apply my skills to build secure, scalable solutions that drive innovation and solve real-world challenges.
 
 <!-- Hi there! I'm Inho Kim, a results-driven software engineer with expertise in **Java**, **Kotlin**, and **Python**.  
@@ -13,14 +13,14 @@ With a strong foundation in **Cybersecurity**, **Spring Framework**, **Android D
 
 ---
 
-## 🎓 Education & Professional Experience  
+## 🎓 Education & Experience & Reward
 - **[Education] 새싹 백엔드 심화 과정** [2024.12 ~ 2025.04]  
 - **[Reward] 사이버 보안 해커톤 우수상** [2024.09]
 - **[Education] 삼성 소프트웨어 아카데미 (SSAFY)** [2023.07 ~ 2024.07]  
 - **[Experience] 마포청년 취창업활동 지원 사업 팀대표** [2023.05 ~ 2023.12]  
 - **[Experience] 육군 Cert(Computer Emergency Response Team)** [2020.02 ~ 2021.09]
 
-## 🏆 Certifications & Rewards
+## 🏆 Certifications
 - **정보처리기사** (Information Processing Engineer) [2024.09.12]  
 - **빅데이터분석기사** (Big Data Analysist Engineer) [2024.07.12]  
 - **OPIc IH** (Intermediate High) [2024.06.29]  
@@ -31,7 +31,7 @@ With a strong foundation in **Cybersecurity**, **Spring Framework**, **Android D
 - **네트워크 관리사 2급** (Network Manager Level 2) [2019.04.09]
 
 ---
-## 💼 Projects / TechSkills
+## 💼 Projects / Tech Skills
 
 | 프로젝트 이름           | 링크               | 소개                                  | 역할 Role                                                | 사용 기술                                                | 기간                                  |
 |------------------------|--------------------|---------------------------------------|---------------------------------------------------------|---------------------------------------------------------|--------------------------------------|
