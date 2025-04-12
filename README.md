@@ -9,7 +9,7 @@ My hands-on experience includes maintaining servers and managing firewalls from 
 I’m always eager to apply my skills to build secure, scalable solutions that drive innovation and solve real-world challenges.
 
 <!-- Hi there! I'm Inho Kim, a results-driven software engineer with expertise in **Java**, **Kotlin**, and **Python**.  
-With a strong foundation in **Cybersecurity**, **Spring Framework**, **Android Development**, and **DevOps Tools**, I strive to design secure, scalable, and innovative solutions that make a meaningful impact. -->
+With a strong fn in **Cybersecurity**, **Spring Framework**, **Android Development**, and **DevOps Tools**, I strive to design secure, scalable, and innovative solutions that make a meaningful impact. -->
 
 ---
 
